@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luexist
+- 👋 Hi, I’m sachin
 - 👀 I’m interested in help in people who have learn cyber security and networking. 
 
 - 🌱 I’m currently learning in gec daman
